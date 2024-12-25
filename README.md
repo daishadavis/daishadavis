@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daisha</h1>
 <h3 align="center">A passionate full stack developer from New York City</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daishadavis" alt="daishadavis" /></a> </p>
-
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [portfolio website under construction](portfolio website under construction)
+- 👨‍💻 All of my projects are available at [portfolio website under construction]
 
 - 💬 Ask me about **OpenSource and Devtools**
 
