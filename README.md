@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Daisha</h1>
 <h3 align="center">A passionate full stack developer from New York City</h3>
 <img align="right" alt="Coding" width="400" src="hacker-girl.gif">
+
+- 🔭 I’m currently working on [LambdaVision](https://github.com/oslabs-beta/LambdaVision)
   
 - 🌱 I’m currently learning **Python**
 
