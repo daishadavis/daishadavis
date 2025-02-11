@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [daisha-portfolio.vercel.app](daisha-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://daisha-portfolio.vercel.app/](https://daisha-portfolio.vercel.app/)
   
 - 💬 Ask me about **OpenSource and Devtools**
 
