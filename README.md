@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer from New York City</h3>
 <img align="right" alt="Coding" width="400" src="hacker-girl.gif">
 
-- 🔭 I’m currently working on [LambdaVision](https://github.com/oslabs-beta/LambdaVision)
+- 🔭 I’m currently working on [Amurex](https://github.com/thepersonalaicompany/amurex)
   
 - 🌱 I’m currently learning **Python**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/daisha-davis-2144b5159/](https://www.linkedin.com/in/daisha-davis-2144b5159/)
 
-- ⚡ Fun fact **My Favorite anime is Naruto.**
+- ⚡ Fun fact **My Favorite anime is Solo Leveling.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
